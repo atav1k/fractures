@@ -1,4 +1,4 @@
-@import url("./variables/variables.css");
+@import url("./variables.css");
 
 sub { vertical-align: sub; }
 sup { vertical-align: super; }
@@ -15,8 +15,8 @@ sup { vertical-align: super; }
 .normal { font-style: normal; }
 .oblique { font-style: oblique; }
 
-.regular { font-weight: var(--normal); }
-.bold { font-weight: var(--bold); }
+.regular { font-weight: var(--font-weight); }
+.bold { font-weight: var(--font-weight-bold); }
 
 .center { text-align: center; }
 .justify { text-align: justify; }

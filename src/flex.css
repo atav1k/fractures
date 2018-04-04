@@ -1,4 +1,4 @@
-@import url("./variables/variables.css");
+@import url("./variables.css");
 
 .flex-wrap { flex-wrap: wrap; }
 .flex-wrap-reverse { flex-wrap: wrap-reverse; }
